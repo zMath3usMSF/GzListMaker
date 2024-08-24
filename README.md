@@ -1,6 +1,7 @@
 # About
 GzList Maker is a tool designed to create a "gzlist" file used in the "Ultimate Ninja" series of games for the PlayStation 2. 
 A gzlist file is responsible for listing all .CCS files (which use gzip compression), folders, and their properties from the data.iso file (decrypted data.cvm).
+The program can be found in the releases tab.
 
 # Requirements
 To use this tool, **you will need to have 7-Zip installed** in order to obtain a file list from the data.iso and convert it to the gzlist format used in the game. 
